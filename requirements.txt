@@ -1,2 +1,5 @@
 Django>=2.2.19,<2.3.0
-djangorestframework>=3.12.4,<3.13.0
+djangorestframework>=3.11.0,<3.12.0
+django-filter==2.3.0
+ipdb==0.8
+psycopg2==2.8.6
